@@ -5,7 +5,7 @@ $(document).ready(function(){
 $(function() {
 
     $("h2")
-        .wrapInner("<span>")
+        .wrapInner("<span>");
 
     $("h2 br")
         .before("<span class='spacer'>")
@@ -16,7 +16,7 @@ $(function() {
 $(function() {
 
     $("h3")
-        .wrapInner("<span>")
+        .wrapInner("<span>");
 
     $("h2")
         .before("<span class='spacer'>")
