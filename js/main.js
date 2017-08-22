@@ -4,10 +4,10 @@ $(document).ready(function(){
 
 $(function() {
 
-    $("h3")
+    $("h4")
         .wrapInner("<span>");
 
-    $("h3 br")
+    $("h4 br")
         .before("<span class='spacer'>")
         .after("<span class='spacer'>");
 
@@ -15,10 +15,10 @@ $(function() {
 
 $(function() {
 
-    $("h4")
+    $("h5")
         .wrapInner("<span>");
 
-    $("h4")
+    $("h5")
         .before("<span class='spacer'>")
         .after("<span class='spacer'>");
 
