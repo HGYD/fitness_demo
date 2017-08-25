@@ -81,18 +81,8 @@ h5 span.spacer {
   position:relative;
 }
 
-.right-text{
-  color: white;
-  float:right;
-  position:relative;
-}
-
 .store-text{
   color:#111111;
-}
-
-.inside-text{
-  color:yellow;
 }
 
 .class-text{
