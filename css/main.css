@@ -81,6 +81,11 @@ h5 span.spacer {
   position:relative;
 }
 
+.right-text{
+  float:right;
+  position:relative;
+}
+
 .store-text{
   color:#111111;
 }
@@ -92,4 +97,11 @@ h5 span.spacer {
 
 .image-stack{
   display: block;
+}
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 40vh;
+  width: 80vw;
 }
